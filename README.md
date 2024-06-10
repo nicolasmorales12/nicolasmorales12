@@ -1,6 +1,6 @@
 ## E aí, beleza! Meu nome é Nícolas mas pode me chamar de Nick
 
-###### - Sou desenvolvedor fullstack sênior com mais de 7 anos de experiência na área de desenvolvimento de software. <br>Minha jornada profissional abrange uma ampla gama de tecnologias e ferramentas, o que me permitiu desenvolver habilidades sólidas em várias áreas.
+###### - Sou desenvolvedor fullstack sênior com mais de 5 anos de experiência na área de desenvolvimento de software. <br>Minha jornada profissional abrange uma ampla gama de tecnologias e ferramentas, o que me permitiu desenvolver habilidades sólidas em várias áreas.
 <img src="https://media1.tenor.com/m/iCqG_iT-h48AAAAC/bills-ugh.gif" width="290" height="240" frameBorder="0" />
 
 **Linguagens:**
